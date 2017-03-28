@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/NikolayKostin/lesson3#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bower-normalize": "^1.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "main-bower-files": "^2.13.1"
   }
 }
