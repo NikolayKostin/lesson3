@@ -19,6 +19,11 @@
     "jquery-migrate-official": "^3.0.0",
     "bootstrap-notify": "^0.2.0",
     "bootstrap-sass": "^3.3.7",
-    "owl-carousel": "^1.3.2"
+    "owl-carousel": "^1.3.2",
+    "equalize": "^1.0.2",
+    "waypoints": "^4.0.1",
+    "animate.scss": "*",
+    "font-awesome": "fontawesome#^4.7.0",
+    "iCheck": "icheck#^1.0.2"
   }
 }
