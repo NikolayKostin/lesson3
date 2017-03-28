@@ -1,0 +1,22 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolayKostin/lesson3.git"
+  },
+  "author": "Nik Kostin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikolayKostin/lesson3/issues"
+  },
+  "homepage": "https://github.com/NikolayKostin/lesson3#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
