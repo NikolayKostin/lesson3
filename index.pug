@@ -5,21 +5,16 @@ html(lang="ru")
 		include templates/head.pug
 	body
 		main.main-page
-			.slider
-				include templates/header.pug
-				include templates/container1.pug
-				.scroll-arrow.hidden-lg-down
-					i.fa.fa-chevron-down
-				include templates/about.pug
-				include templates/testimonials.pug
-				include templates/program.pug
-				include templates/container2.pug
-				include templates/price.pug
-				include templates/registration.pug
-				include templates/questions.pug
-				#contacts.contacts
-				#map
-				main
-				include templates/footer.pug
-				include templates/scripts.pug
+			include templates/slider.pug
+			include templates/about.pug
+			include templates/testimonials.pug
+			include templates/program.pug
+			include templates/container2.pug
+			include templates/price.pug
+			include templates/registration.pug
+			include templates/questions.pug
+			include templates/contacts.pug
+
+		include templates/footer.pug
+		include templates/scripts.pug
 
